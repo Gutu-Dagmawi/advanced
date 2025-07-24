@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 22,
+    "cSpell.words": [
+        "bitscollege"
+    ],
+    "github.copilot.enable": {
+        "ruby": true
+    }
+}
